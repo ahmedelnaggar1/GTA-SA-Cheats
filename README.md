@@ -1,6 +1,8 @@
 # GTA-SA-Cheats
 An application that manipulates memory addresses to enable cheats in GTA SA.
 
+**Year written: 2015**
+
 ## Usage
 
 After running GTA SA and loading a save file, start the app and your health and armour should change.
@@ -13,5 +15,3 @@ Memory addresses to manipulate can be obtained using CheatEngine.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-**Please note that this app dates back to 2015 and thus is old code written by me when I was young.**
