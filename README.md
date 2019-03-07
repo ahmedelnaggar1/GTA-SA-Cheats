@@ -11,5 +11,5 @@ Memory addresses to manipulate can be obtained using CheatEngine.
 
 After running GTA SA and loading a save file, start the app and your health and armour should change.
 
-## License
+## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
